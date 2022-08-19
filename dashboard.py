@@ -1,8 +1,8 @@
-#import streamlit as st
-#import pandas as pd
-#import matplotlib.pyplot as plt
-#import plotly.graph_objects as go
-#import plotly.express as px
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+import plotly.express as px
 #defination
 items=['Apples','Wheat','Barley','Maize',"Tomatoes","Sugar cane","Potatoes","Olives"]
 month=["Sep–Oct–Nov",'Jun–Jul–Aug','Dec–Jan–Feb','Mar–Apr–May','Meteorological year']
